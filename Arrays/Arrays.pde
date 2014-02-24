@@ -6,6 +6,7 @@ void setup()
   ages[2] = 21.0f;
   ages[3] = 22.0f;
   ages[4] = 39.0f;
+  ages[5] = 44.0f;
   
   float total = 0.0f;
   for (int i = 0 ; i < 5 ; i++)
